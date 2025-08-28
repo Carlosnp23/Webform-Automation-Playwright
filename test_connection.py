@@ -1,8 +1,8 @@
 import mysql.connector
 
-conn = None  # Inicializa para manejar errores
+conn = None  # Initialize to handle errors
 
-# Datos extraídos de la URL
+# Data extracted from the URL
 host = "switchback.proxy.rlwy.net"
 port = 40842
 user = "root"
