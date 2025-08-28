@@ -1,14 +1,11 @@
 \# WebForm Automation with Playwright and MySQL
 
 
-
 This project demonstrates automation of web forms using Playwright in Python, with data retrieved from a MySQL database. It is designed to showcase practical skills in automation, database integration, and Python scripting.
 
 
 
 \## Technologies
-
-
 
 \- Python 3.9+
 
@@ -21,8 +18,6 @@ This project demonstrates automation of web forms using Playwright in Python, wi
 
 
 \## Project Overview
-
-
 
 \- Connects to a MySQL database to fetch user data
 
@@ -38,13 +33,11 @@ This project demonstrates automation of web forms using Playwright in Python, wi
 
 \## Setup
 
-
-
 1\. Clone the repository:
 
 &nbsp;  ```bash
 
-&nbsp;  [git clone https://github.com/username/webform-automation-playwright.git](https://github.com/Carlosnp23/Webform-Automation-Playwright)
+&nbsp;  git clone https://github.com/username/webform-automation-playwright.git
 
 &nbsp;  cd webform-automation-playwright
 
